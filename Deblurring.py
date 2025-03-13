@@ -1,5 +1,5 @@
 # Author: Sajjad
-# Course Project Assignment for Machine Learning 101
+# Course Project Assignment: Machine Learning 101
 
 import cv2
 import numpy as np
